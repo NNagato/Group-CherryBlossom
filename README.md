@@ -26,7 +26,7 @@
     <li>Tên phần mềm : Health</li>
     <li>Sources code : </li>
     <li>Pivotaltracker nhóm : https://www.pivotaltracker.com/n/projects/1555773 </li>
-    <li>Demo app : </li>
+    <li>Demo app : https://thawing-shelf-17318.herokuapp.com/</li>
   </ul>
 
 <h2>Các chức năng chính của app</h2>
