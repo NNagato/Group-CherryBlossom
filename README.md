@@ -35,10 +35,26 @@
     <li>Qua BMI có thể quản lý, theo dõi sức khỏe của mình </li>
   </ul>
 
+<h2>Quy trình tạo sản phẩm</h2>
+<ul>
+  <li>Tạo model cho user và BMI: User, Health</li>
+  <li>Tạo controller: user controller, session controller, static_page   controller, health controller</li>
+  <li>Các trang html: 
+    <ul>
+      <li>Static_page: about.html.erb, about.html.erb, help.html.erb, home.html.erb </li>
+      <li>Layout: _footer.html.erb, _header.html.erb, _shim.html.erb </li>
+      <li>User: _user.html.erb, edit.html.erb, - index.html.erb, new.html.erb, show.html.erb</li>
+      <li>Session: new.html.erb </li>
+      <li>Shared: _error_messages.html.erb, _health_form.html.erb, _user._info.html.erb</li>
+    </ul>
+  </li>
+  <li>Các file test: Tạo folder integration</li>
+</ul>
+
 <h2>Kết quả test </h2>
   <ul>
     <li>Bài test gồm 5 features và 11 scenarios</li>
     <li>Độ coverage qua test bằng Cucumber: 81,87%</li>
   </ul>
 
-<i>Quay trình sản xuất đã được trình bày rõ trong Pivotaltracker nhóm (link phía trên) </i>
+<i>Chi tiết quy trình sản xuất đã được trình bày rõ trong Pivotaltracker nhóm (link phía trên) </i>
