@@ -24,17 +24,22 @@
 <h2>Thông tin dự án</h2>
   <ul>
     <li>Tên phần mềm : Health</li>
-    <li>Sources code : </li>
+    <li>Bài code : https://github.com/NNagato/main-project </li>
     <li>Pivotaltracker nhóm : https://www.pivotaltracker.com/n/projects/1555773 </li>
-    <li>Demo app : https://thawing-shelf-17318.herokuapp.com/</li>
+    <li>Link app : https://thawing-shelf-17318.herokuapp.com/</li>
   </ul>
 
 <h2>Các chức năng chính của app</h2>
   <ul>
     <li>Quản lý tài khoản : đăng ký, đăng nhập, sửa đổi thông tin</li>
-    <li>Tính chỉ số IBM, kiểm tra sức khỏe của người dùng </li>
-    <li>Quản lý, đánh giá sức khỏe</li>
+    <li>Tính chỉ số BMI, đánh giá sức khỏe kèm theo của người dùng </li>
+    <li>Qua BMI có thể quản lý, theo dõi sức khỏe của mình </li>
   </ul>
 
-<h2>Kết quả test cucumber</h2>
+<h2>Kết quả test </h2>
+  <ul>
+    <li>Bài test gồm 5 features và 11 scenarios</li>
+    <li>Độ coverage qua test bằng Cucumber: 81,87%</li>
+  </ul>
 
+<i>Quay trình sản xuất đã được trình bày rõ trong Pivotaltracker nhóm (link phía trên) </i>
