@@ -31,8 +31,7 @@
 
 <h2>Các chức năng chính của app</h2>
   <ul>
-    <li>Quản lý tài khoản : đăng ký, đăng nhập, sửa đổi thông tin</li>
-    <li>Tính chỉ số BMI, đánh giá sức khỏe kèm theo của người dùng </li>
+    <li>Tính chỉ số BMI, đánh giá sức khỏe kèm theo của mình </li>
     <li>Qua BMI có thể quản lý, theo dõi sức khỏe của mình </li>
   </ul>
 
