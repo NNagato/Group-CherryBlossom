@@ -26,7 +26,7 @@
     <li>Tên phần mềm : Health</li>
     <li>Bài code : https://github.com/NNagato/main-project </li>
     <li>Pivotaltracker nhóm : https://www.pivotaltracker.com/n/projects/1555773 </li>
-    <li>Link app : https://thawing-shelf-17318.herokuapp.com/</li>
+    <li>Link app : https://protected-meadow-11324.herokuapp.com/</li>
   </ul>
 
 <h2>Các chức năng chính của app</h2>
