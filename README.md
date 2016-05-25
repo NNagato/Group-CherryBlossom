@@ -32,7 +32,7 @@
 <h2>Các chức năng chính của app</h2>
   <ul>
     <li>Tính chỉ số BMI, đánh giá sức khỏe kèm theo của mình </li>
-    <li>Qua BMI có thể quản lý, theo dõi sức khỏe của mình </li>
+    <li>Qua BMI log có thể quản lý, theo dõi sức khỏe của mình </li>
   </ul>
 
 <h2>Quy trình tạo sản phẩm</h2>
