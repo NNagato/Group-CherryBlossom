@@ -49,7 +49,7 @@
     </ul>
   </li>
   <li>Các file test: Tạo folder integration</li>
-  <i>Chi tiết quy trình sản xuất đã được trình bày rõ trong Pivotaltracker nhóm (link phía trên) </i>
+  <strong><i>Chi tiết quy trình sản xuất đã được trình bày rõ trong Pivotaltracker nhóm (link phía trên) </i></strong>
 </ul>
 
 <h2>Kết quả test </h2>
