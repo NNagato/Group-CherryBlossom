@@ -49,6 +49,7 @@
     </ul>
   </li>
   <li>Các file test: Tạo folder integration</li>
+  <li><i>Chi tiết quy trình sản xuất đã được trình bày rõ trong Pivotaltracker nhóm (link phía trên) </i></li>
 </ul>
 
 <h2>Kết quả test </h2>
@@ -58,4 +59,3 @@
     <li>Link ảnh minh họa (muốn xem rõ bạn click vào ảnh nhiều lần để phóng to ảnh trực tiếp trên link này còn nếu down về thì mở bằng paint): https://drive.google.com/file/d/0B9L2v2LdE3KNSlhUMlZERUZCT28/view?usp=sharing </li>
   </ul>
 
-<i>Chi tiết quy trình sản xuất đã được trình bày rõ trong Pivotaltracker nhóm (link phía trên) </i>
