@@ -55,7 +55,7 @@
   <ul>
     <li>Bài test gồm 5 features và 11 scenarios</li>
     <li>Độ coverage qua test bằng Cucumber: 81,87%</li>
-    <li>Link ảnh minh họa (muốn xem rõ bạn click vào ảnh nhiều lần để phóng to ảnh trực tiếp trên link này còn nếu down về thì mở bằng paintng paint): https://drive.google.com/file/d/0B9L2v2LdE3KNSlhUMlZERUZCT28/view?usp=sharing </li>
+    <li>Link ảnh minh họa (muốn xem rõ bạn click vào ảnh nhiều lần để phóng to ảnh trực tiếp trên link này còn nếu down về thì mở bằng paint): https://drive.google.com/file/d/0B9L2v2LdE3KNSlhUMlZERUZCT28/view?usp=sharing </li>
   </ul>
 
 <i>Chi tiết quy trình sản xuất đã được trình bày rõ trong Pivotaltracker nhóm (link phía trên) </i>
